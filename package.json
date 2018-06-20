@@ -1,0 +1,25 @@
+{
+  "name": "dev-campjs-footer",
+  "version": "0.1.0",
+  "description": "footer for the module allows for a dynamic footer to be generated for a JS applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynobyte/dev-campjs-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Dino Soifua <dinosoifua@gmail.com> (https://www.npmjs.com/~dynobyte801)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dynobyte/dev-campjs-footer/issues"
+  },
+  "homepage": "https://github.com/dynobyte/dev-campjs-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
